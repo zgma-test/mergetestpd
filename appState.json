@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "da450e0b-62f2-43ee-8adc-0e056082ae45": {
+        "id": "da450e0b-62f2-43ee-8adc-0e056082ae45",
+        "parent": null,
+        "name": "MergeTestPD.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MergeTestPD.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MergeTestPD"
+        },
+        "triggers": [],
+        "lastUpdated": 1628140736904
+      }
+    },
+    "openFiles": [
+      "da450e0b-62f2-43ee-8adc-0e056082ae45"
+    ],
+    "currentFileId": "da450e0b-62f2-43ee-8adc-0e056082ae45",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.1",
+    "projectName": "MergeTestPD",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1628140743166
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "mergetestpd",
+      "url": "https://github.com/zgma-test/mergetestpd"
+    }
+  }
+}
